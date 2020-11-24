@@ -1,3 +1,5 @@
+# Exploratory Text Analytics on Classic Literature
+
 On March 1, 1999, BBC News published an article with a list of the Top 10 Writers voted by readers. I’ve compiled a collection of select works by some of the writers in the list and other internationally renowned authors to analyze their similarity and difference:
 
 * American (Mark Twain)
